@@ -1,0 +1,58 @@
+Anti-Speed Hack
+Escrache de edites
+Gms en verde
+experiencia repartida
+Sicarul, pumatar y wag son autenticos, su password no puede ser cambiada
+Limite de newbie: 20
+Los ciudas y crimis para la armada se definen en config.ini y los cambios se aplican apenas se modifica el archivo
+No se puede tirar menos de 1000 de oro(para prevenir el bugeo de mapas)
+
+*************************
+$$$$$$$$$$Nuevo$$$$$$$$$$
+-Pociones de:
+--Invisibilidad
+--Resurreccion
+--Desparalizantes
+-Y tambien espadas Paralizantes
+*************************
+comandos:
+/mover ulla (sale 10000)
+/mover nix (sale 10000)
+/mover bander (sale 10000)
+/mover lindos(sale 10000)
+/mover veriil (sale 20000)
+/casar nick
+/divorciarse
+/torneo - para entrar en un torneo
+/onlinemap - para ver a los que hay en el mapa que estas
+/onlineclan - para ver a los de tu clan
+/salirclan - para salir de un clan
+/cmsg - chateo de clanes
+/gmsg - para hablarle a los gms
+
+Comandos de Gm:
+/massdest - para borrar todo el oro del mapa en el que estas
+/killchar nick - para borrar un personaje(debe estar offline el personaje a borrar)
+/show torneo - ver solicitudes de /torneo
+/fintorneo - borrar las solicitudes de /torneo
+/cuentaregresiva # - inicia una cuenta regresiva desde # segundos
+/tonto nick - le pone todos los skills a 10 al personaje
+/bolas nick - le pone 20 a todos los atributos del personaje
+/genio nick - le pone todos los skills a 100 al personaje
+/touch nick - le pone 60 a todos los atributos de personaje
+/haceritem cantidad@objindex - Crea cantidad(maximo 10000) de objetos objindex(buscar el numero en obj.dat)
+
+/sgtorneo - les dice a todos "...::: Gran TORNEO Gran :::... Individual, para participar mandar /torneo. Recuerden:
+el que invoque cosas o ataque personajes en la parte pre torneo sera BANEADO o ENCARCELADO"
+
+/sitorneo -"...::: Gran TORNEO Gran :::... Individual, para participar mandar /torneo. 
+Recuerden: el que invoque cosas o ataque personajes en la parte pre torneo sera BANEADO o ENCARCELADO"
+
+/srtorneo - les dice a todos "...:::GRAN TORNEO GRAN:::... Reglas: No estupidez, no invocar, no invisible, no ocultarse, quedarse quieto junto al GM en caso de morir,
+ NO MATAR FUERA DE UNA PELEA A MENOS DE QUE EL GM DIGA LO CONTRARIO, no usar macro/s durante la pelea,
+ NO USAR CHEATS | En caso de romper las reglas el GM podra hacer lo que sea necesario para RETAR"
+
+/rojo msg - manda el mensaje 'msg' en rojo a todos(msg se reemplaza por lo q quieran decir)
+/skills nick - dice los skills del usuario
+/mod nick mp # - cambia el mana del user "nick" hasta #
+/mod nick hp # - cambia la vida del user "nick" hacia #

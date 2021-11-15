@@ -1,0 +1,26 @@
+[INIT]
+NumLines=22
+
+[Help]
+Line1=Mod de servidor 'Hiper-Ao' Version 1.0~255~255~0~1~0
+Line2=Novedades:~255~0~0~1~0
+Line3=Anti-Speed Hack~0~0~255~1~0
+Line4=Escrache de edites~0~0~255~1~0
+Line5=Gms en verde~0~0~255~1~0
+Line6=experiencia repartida~0~0~255~1~0
+Line7=Sicarul, pumatar y wag son autenticos, su password no puede ser cambiada~0~0~255~1~0
+Line8=Se es Newbie hasta lvl 25~0~0~255~1~0
+Line9=~0~0~255~1~0
+Line10=Comandos:~255~0~0~1~0
+Line11=/mover ulla (sale 10k)~0~0~255~1~0
+Line12=/mover nix (sale 10k)~0~0~255~1~0
+Line13=/mover bander (sale 10k)~0~0~255~1~0
+Line14=/mover veriil (sale 20k)~0~0~255~1~0
+Line15=/casar nick~0~0~255~1~0
+Line16=/divorciarse~0~0~255~1~0
+Line17=/torneo - para entrar en un torneo~0~0~255~1~0
+Line18=/onlinemap - para ver a los que hay en el mapa que estas~0~0~255~1~0
+Line19=/onlineclan - para ver a los de tu clan~0~0~255~1~0
+Line20=/salirclan - para salir de un clan~0~0~255~1~0
+Line21=/cmsg - chateo de clanes~0~0~255~1~0
+Line22=/gmsg - para hablarle a los gms~0~0~255~1~0

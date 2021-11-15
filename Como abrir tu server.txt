@@ -1,0 +1,4 @@
+1-Ejecuta Hiper-ao.exe
+2-Entra a tu server con un cliente normal de ao, pone como ip localhost,
+el resto tiene que poner tu ip real (por ejemplo 200.56.32.11) si queres saber tu ip
+hacete una busqueda con el amigo www.google.com.ar     ;)
